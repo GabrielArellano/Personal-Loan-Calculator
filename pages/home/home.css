@@ -9,7 +9,7 @@ ion-content{
 }
 
 h1{
-  color: white;
+  color: black;
   font-family: coiny regular;
   text-align: center;
   font-size: xx-large;
@@ -20,5 +20,5 @@ h2{
 p{
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  color: white;
+  color: black;
 }
