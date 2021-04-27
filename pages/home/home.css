@@ -1,0 +1,17 @@
+ion-content {
+  background-image: url(https://cdn.jsdelivr.net/gh/HanzBaylan/personal-loan@master/1393769.jpg);
+}
+h1{
+  color: black;
+  font-family: coiny regular;
+  text-align: center;
+  font-size: xx-large;
+}
+h2{
+  color: green;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: black;
+}
